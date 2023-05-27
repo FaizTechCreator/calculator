@@ -1,0 +1,36 @@
+.faiz{
+    color: blue;
+    text-align: center;
+    font-size:xx-large;
+}
+#num1{
+    color: darkblue;
+    text-align: center;
+}
+#num2{
+    color: rgb(252, 2, 2);
+    text-align: center;
+}
+#result{
+    text-align: center;
+    color: rgb(200, 255, 0);
+    width: 50px;
+    padding: 30px;
+    margin-left: 170px;
+    border: solid 5px
+    
+    
+}
+
+.ni{
+    color: deeppink;
+    border: solid 5px;
+    width: 500px;
+    margin-left: 450px
+
+}
+.row1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
